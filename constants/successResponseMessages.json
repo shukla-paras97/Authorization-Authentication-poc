@@ -1,0 +1,15 @@
+{
+  "4001" : "user registered successfully",
+  "4002" : "Login successfully",
+  "4003" : "logout successfully",
+  "4004" : "login successlly with google account",
+  "4005" : "google user data found successfully",
+ 
+
+  "2001" : "email already exist,Please try with another email",
+  "2002" : "Invalid email or password",
+  "2003" : "you are not logged in",
+  "2004" : "create a google account"
+  
+
+}
